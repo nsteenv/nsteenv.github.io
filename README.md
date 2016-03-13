@@ -1,2 +1,2 @@
 # nsteenv.github.io
-Blog
+Personal static website
